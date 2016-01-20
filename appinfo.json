@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "bradley@spencerfam.com",
+    "longName": "Bradley's Try 1",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Try1",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "232d9805-a910-488c-be67-9a592cf5055d",
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
